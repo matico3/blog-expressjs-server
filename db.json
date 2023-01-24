@@ -2,15 +2,15 @@
   "blogs": [
     {
       "title": "Moj novi blog",
-      "body": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum ",
+      "body": "To preprosto aplikacijo sem napisal za potrebe demonstracije uporabe sistema za nadzor različic git pri predmetu Razvoj programske opreme na FERI-ju. Zgrajena je na React-u v povezavi z ExpressJS serverjem. Aplikacija podpira dodajanje novih vnosov ter odstranjevanje starih, pa tudi filtriranje rezultatov glede na vnešene podatke.",
       "author": "Matic",
-      "id": 2
+      "id": 1
     },
     {
       "title": "Svet je lep",
       "body": "The world we live in is truly beautiful. Whether you're admiring the grandeur of a mountain range, the serenity of a lake, or the lushness of a forest, nature never ceases to amaze us with its diversity and wonder. But the beauty of the world isn't limited to just the natural environment. The man-made architecture and cultural heritage of cities are just as breathtaking, from the ancient ruins of the pyramids to the modern skylines of metropolises. The vibrant colors, patterns and styles of traditional clothing worn by people across the globe are also a testament to the diversity of human expression. Whether you're taking a hike in the wilderness or strolling through the streets of a bustling city, the world is full of beauty to be discovered. It's up to us to take the time to appreciate it, and do our part to preserve it for future generations. Let's take a moment to truly take in the world around us, and appreciate the simple yet profound beauty of life.",
       "author": "ChatGPT",
-      "id": 1
+      "id": 2
     },
     {
       "title": "Tehnologija gre dalje",
