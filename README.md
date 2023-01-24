@@ -1,3 +1,3 @@
-# blog-expressjs-server
+# ExpressJS Server
 
 Simple ExpressJS server for my React blog.
